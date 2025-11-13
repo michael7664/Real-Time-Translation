@@ -1,0 +1,489 @@
+============================================================
+REAL-TIME ITALIAN TO ENGLISH TRANSLATION LOG
+============================================================
+Started: 2025-11-13 11:56:07
+============================================================
+
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 11:56:35
+──────────────────────────────────────────────────
+[11:56:35]
+Italian: ok
+English: ok
+----------------------------------------
+[11:56:44]
+Italian: la copia giusto
+English: the right copy
+----------------------------------------
+[11:56:48]
+Italian: c'è tanto La Coppi
+English: there is a lot of La Coppi
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 11:57:02
+──────────────────────────────────────────────────
+[11:57:02]
+Italian: non possiamo ancora evitarlo
+English: we can't avoid it yet
+----------------------------------------
+[11:57:08]
+Italian: aspettate
+English: wait
+----------------------------------------
+[11:57:17]
+Italian: ok
+English: ok
+----------------------------------------
+[11:57:20]
+Italian: aggiornarla
+English: update it
+----------------------------------------
+[11:57:25]
+Italian: ci
+English: There
+----------------------------------------
+[11:57:33]
+Italian: aggiornarla la mail
+English: update the email
+----------------------------------------
+[11:57:36]
+Italian: la pagina il link che vi ho mandato
+English: the page is the link I sent you
+----------------------------------------
+[11:57:42]
+Italian: nella chat di teams ho messo un link
+English: I put a link in the Teams chat
+----------------------------------------
+[11:57:45]
+Italian: sopra dovete cliccare per inserire ciò
+English: you must click above to insert this
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 11:57:57
+──────────────────────────────────────────────────
+[11:57:57]
+Italian: non riesce Hai visto il link
+English: fails You saw the link
+----------------------------------------
+[11:58:06]
+Italian: è stato coperto da un'altra persona
+English: it was covered by another person
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 11:58:23
+──────────────────────────────────────────────────
+[11:58:23]
+Italian: un momento
+English: a moment
+----------------------------------------
+[11:58:26]
+Italian: riuscì
+English: he succeeded
+----------------------------------------
+[11:58:31]
+Italian: spelling su Tim su Uncharted teams
+English: spelling on Tim on Uncharted teams
+----------------------------------------
+[11:58:36]
+Italian: Sì ho già fatto
+English: Yes I already did
+----------------------------------------
+[11:58:39]
+Italian: inserite Aprite il link che vi
+English: enter Open the link provided
+----------------------------------------
+[11:58:42]
+Italian: dentro
+English: in
+----------------------------------------
+[11:58:49]
+Italian: una schermata con un elenco scheda 1 2
+English: a screen with a tab list 1 2
+----------------------------------------
+[11:58:52]
+Italian: l'ho rinominate E scrivete
+English: I renamed it And write
+----------------------------------------
+[11:58:58]
+Italian: così dentro inserite in quel file c'ho
+English: so inside insert it into that file I have
+----------------------------------------
+[11:59:01]
+Italian: ditemi se è chiaro
+English: tell me if it's clear
+----------------------------------------
+[11:59:03]
+Italian: No non è che mi fai
+English: No it's not what you do to me
+----------------------------------------
+[11:59:06]
+Italian: il link nella chat
+English: the link in the chat
+----------------------------------------
+[11:59:09]
+Italian: Adesso te lo mando
+English: I'll send it to you now
+----------------------------------------
+[11:59:15]
+Italian: io te lo posso manda
+English: I can send it to you
+----------------------------------------
+[11:59:19]
+Italian: tu e-mail che mi è più facile
+English: you email which is easier for me
+----------------------------------------
+[11:59:25]
+Italian: ho bisogno che
+English: I need that
+----------------------------------------
+[11:59:31]
+Italian: guardata la condivisione un attimo
+English: look at the sharing for a moment
+----------------------------------------
+[11:59:34]
+Italian: io ho creato questo file chiamato lezione 1
+English: I created this file called lesson 1
+----------------------------------------
+[11:59:37]
+Italian: è un file di Word quindi deve scrivere semplicemente del testo
+English: it's a Word file so you just have to write some text
+----------------------------------------
+[11:59:40]
+Italian: quando voi cliccherete su Tim sul link gli
+English: when you click on Tim on the link
+----------------------------------------
+[11:59:42]
+Italian: Vi si aprirà
+English: It will open for you
+----------------------------------------
+[11:59:46]
+Italian: in questo modo ecco per esempio Luca ha già iniziato
+English: in this way, for example, Luca has already started
+----------------------------------------
+[11:59:52]
+Italian: lo vedo in chat nella
+English: I see him in the chat in the
+----------------------------------------
+[11:59:55]
+Italian: se tu vai su teams andresti
+English: if you go to teams you would go
+----------------------------------------
+[12:00:01]
+Italian: quella ok
+English: that's ok
+----------------------------------------
+[12:00:10]
+Italian: ci sono arrivata
+English: I got there
+----------------------------------------
+[12:00:12]
+Italian: Luca to
+English: Luca to
+----------------------------------------
+[12:00:17]
+Italian: quello sì però tu dovresti
+English: yes, but you should
+----------------------------------------
+[12:00:20]
+Italian: vedere più in basso e vedere anche scheda 4
+English: see further down and also see sheet 4
+----------------------------------------
+[12:00:23]
+Italian: per esempio oppure clicchi sul più
+English: for example or click on the plus
+----------------------------------------
+[12:00:26]
+Italian: aggiungi una nuova scheda in imposti il tuo nome
+English: add a new tab in set your name
+----------------------------------------
+[12:00:30]
+Italian: vuoi Patrizia te lo faccio io così lo vedi subito
+English: Patrizia, I'll do it for you so you can see it immediately
+----------------------------------------
+[12:00:34]
+Italian: mi dice modifica con l'app documenti Installa l'app
+English: it tells me edit with the documents app Install the app
+----------------------------------------
+[12:00:36]
+Italian: Ah ok Quindi non hai nemmeno il
+English: Ah ok So you don't even have the
+----------------------------------------
+[12:00:39]
+Italian: è per quello
+English: that's why
+----------------------------------------
+[12:00:45]
+Italian: l'ideale Tieni conto che nelle prossime elezioni
+English: the ideal Take into account that in the next elections
+----------------------------------------
+[12:00:49]
+Italian: ferma effettivamente degli esercizi Quindi per vederli
+English: actually stop some exercises So to see them
+----------------------------------------
+[12:00:51]
+Italian: puoi condividere un file e di solito le chiedo
+English: can you share a file and I usually ask her
+----------------------------------------
+[12:00:59]
+Italian: se no me lo mandi tramite email va bene Lo
+English: if not, send it to me via email, that's fine Lo
+----------------------------------------
+[12:01:03]
+Italian: Eh ho capito però io non ho capito adesso come faccio a fare quello che mi hai cioè quello
+English: Oh I understand but I don't understand now how I can do what you have for me, that is
+----------------------------------------
+[12:01:07]
+Italian: a quanto pare dovresti installare l'applicazione sul cellulare
+English: apparently you should install the application on your mobile phone
+----------------------------------------
+[12:01:11]
+Italian: e non ti voglio fare installare nulla quindi
+English: and I don't want you to install anything therefore
+----------------------------------------
+[12:01:14]
+Italian: Mandami una mail rispondi alla mia email
+English: Send me an email reply to my email
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:01:26
+──────────────────────────────────────────────────
+[12:01:26]
+Italian: Io sono entrato in Google
+English: I joined Google
+----------------------------------------
+[12:01:29]
+Italian: nella mia nel
+English: in my in
+----------------------------------------
+[12:01:31]
+Italian: ma non riesco a trovare Gemini
+English: but I can't find Gemini
+----------------------------------------
+[12:01:35]
+Italian: scrivi semplicemente su una pagina di ricerca
+English: simply write on a search page
+----------------------------------------
+[12:01:38]
+Italian: Paul Gemini Eh quello che ho fatto
+English: Paul Gemini Oh what I did
+----------------------------------------
+[12:01:40]
+Italian: se non ti ha tro
+English: if he doesn't find you
+----------------------------------------
+[12:01:44]
+Italian: Allora Google
+English: Then Google
+----------------------------------------
+[12:01:53]
+Italian: sto andando giù di
+English: I'm going down by
+----------------------------------------
+[12:01:55]
+Italian: preoccupare
+English: worry
+----------------------------------------
+[12:01:59]
+Italian: scrivi semplicemente Gemini come
+English: just write Gemini as
+----------------------------------------
+[12:02:01]
+Italian: Cerca su Google
+English: Search on Google
+----------------------------------------
+[12:02:04]
+Italian: tu mi vedi
+English: you see me
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:02:16
+──────────────────────────────────────────────────
+[12:02:16]
+Italian: Ecco Ah quello che sto facendo No vedo Google
+English: Here's Ah what I'm doing I don't see Google
+----------------------------------------
+[12:02:20]
+Italian: Gemini vado Google mi dà la P che è il mio
+English: Gemini I go Google gives me the P which is mine
+----------------------------------------
+[12:02:22]
+Italian: account poi nulla pagina
+English: account then nothing page
+----------------------------------------
+[12:02:25]
+Italian: non vedi un Imposta
+English: you don't see a Setup
+----------------------------------------
+[12:02:32]
+Italian: no
+English: No
+----------------------------------------
+[12:02:34]
+Italian: Allora invece di Gemini torna indietro e scrivi chat
+English: So instead of Gemini go back and write chat
+----------------------------------------
+[12:02:37]
+Italian: chat
+English: chat
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:02:56
+──────────────────────────────────────────────────
+[12:02:56]
+Italian: quando si può scaricare ma si può usare sempre su internet quindi
+English: when you can download it but you can always use it on the internet so
+----------------------------------------
+[12:02:58]
+Italian: entrerà direttamente
+English: will enter directly
+----------------------------------------
+[12:03:02]
+Italian: Apri una schermata del genere oscura
+English: Open such a dark screen
+----------------------------------------
+[12:03:04]
+Italian: qui ti chiederà questa cosa questa impostazione
+English: here this setting will ask you this thing
+----------------------------------------
+[12:03:13]
+Italian: Esatto E qui fai la domanda in base alla richiesta del
+English: Exactly And here you ask the question based on the request of the
+----------------------------------------
+[12:03:16]
+Italian: ok
+English: ok
+----------------------------------------
+[12:03:20]
+Italian: mi compri la sua risposta e
+English: buy me your answer and
+----------------------------------------
+[12:03:24]
+Italian: Accendi tramite email ok e
+English: Turn on via email ok and
+----------------------------------------
+[12:03:26]
+Italian: dai la tua mail perché prima è apparsa
+English: give your email because it appeared first
+----------------------------------------
+[12:03:35]
+Italian: nella chat
+English: in the chat
+----------------------------------------
+[12:03:38]
+Italian: ci dovrebbe essere anche scritto nella chat ma se vuoi
+English: it should also be written in the chat but if you want
+----------------------------------------
+[12:03:39]
+Italian: In realtà io ti
+English: Actually I you
+----------------------------------------
+[12:03:43]
+Italian: usa una mail quindi tu puoi rispondere a quella che ti ho mandato
+English: use an email so you can reply to the one I sent you
+----------------------------------------
+[12:03:46]
+Italian: Ah ok Va bene ok
+English: Ah ok Okay ok
+----------------------------------------
+[12:03:52]
+Italian: Allora visto che comunque
+English: So seeing that anyway
+----------------------------------------
+[12:03:55]
+Italian: mi vedo che stanno andando avanti o che hanno addirittura
+English: I see myself moving forward or even having
+----------------------------------------
+[12:04:00]
+Italian: Patrizia
+English: Patricia
+----------------------------------------
+[12:04:05]
+Italian: cancellare scheda sera cancelliamo
+English: delete card evening let's delete
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:04:17
+──────────────────────────────────────────────────
+[12:04:17]
+Italian: qualcuno sotto nel mio file
+English: someone below in my file
+----------------------------------------
+[12:04:21]
+Italian: Io non ho cancellato però c'è sotto un pezzo di qualcun altro si vede infatti vedo che c'è qualcuno i fritta anonimo ma non so
+English: I didn't delete it but there's a piece from someone else underneath, you can see it, in fact I see that there's someone there anonymously but I don't know
+----------------------------------------
+[12:04:26]
+Italian: ciascuno di voi deve stare
+English: each of you must stay
+----------------------------------------
+[12:04:31]
+Italian: Io sono
+English: I am
+----------------------------------------
+[12:04:38]
+Italian: Oh in realtà L'avevo condiviso nella chat
+English: Oh actually I had shared this in the chat
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:05:26
+──────────────────────────────────────────────────
+[12:05:26]
+Italian: ho bisogno materna dal cellulare per fare Sono andata sul sul link ma anche a me fa mi dice di scaricare l'app perché si vede con un sì perché ci vuole l'applicazione per poter usare Allora prima metto la mia email qua nella chat di Tim se potete mandarmela anche tramite
+English: I need motherly from my cell phone to do I went to the link but it also tells me to download the app because it shows with a yes because you need the application to be able to use So first I'll put my email here in Tim's chat if you can also send it to me via
+----------------------------------------
+[12:05:31]
+Italian: Grazie scusa ma ci mancherebbe ma non vi vergognate con me Molto alla mano molto tranquilli e non vi mangio e non mi dovete preoccupare
+English: Thank you sorry but of course but don't be ashamed of me Very easy going very calm and I won't eat you and you don't have to worry
+----------------------------------------
+[12:05:38]
+Italian: allora
+English: At that time
+----------------------------------------
+[12:05:42]
+Italian: Facciamo così intanto facciamo una pausa per
+English: Let's do this while we take a break for
+----------------------------------------
+[12:05:45]
+Italian: 10 minuti quindi alle 12:15 ci rivediamo qua
+English: 10 minutes so at 12.15 we'll see you back here
+----------------------------------------
+[12:05:49]
+Italian: chi vuol continuare continua Se no potete tranquillamente
+English: who wants to continue continues If not you can easily
+----------------------------------------
+[12:05:51]
+Italian: anche se state facendo un lavoro con smettere
+English: even if you are doing a job with quitting
+----------------------------------------
+[12:05:55]
+Italian: era una pausa di 10 minuti
+English: it was a 10 minute break
+----------------------------------------
+[12:05:57]
+Italian: ci vediamo alle 12:15
+English: see you at 12.15pm
+----------------------------------------
+[12:06:06]
+Italian: lo scrivo anche qua anche se
+English: I'll write it here too though
+----------------------------------------
+[12:06:09]
+Italian: pausa
+English: break
+----------------------------------------
+
+============================================================
+SESSION SUMMARY
+============================================================
+Ended: 2025-11-13 12:06:31
+Total translations: 110
+============================================================
