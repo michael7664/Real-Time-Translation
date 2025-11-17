@@ -10,6 +10,28 @@ import queue
 import io
 import os
 
+def __init__(self, source_lang='it', target_lang='en'):
+    self.config = Config()
+    
+    # Override language settings
+    self.config.SOURCE_LANGUAGE = source_lang
+    self.config.TARGET_LANGUAGE = target_lang
+    
+    # Initialize components with config
+    self.audio_capture = AudioCapture(
+        rate=self.config.SAMPLE_RATE,
+        chunk_size=self.config.CHUNK_SIZE,
+        channels=self.config.CHANNELS
+    )
+    self.speech_to_text = SpeechToText(
+        language=f'{self.config.SOURCE_LANGUAGE}-{self.config.SOURCE_LANGUAGE.upper()}'
+    )
+    self.translator = TextTranslator(
+        src_lang=self.config.SOURCE_LANGUAGE,
+        dest_lang=self.config.TARGET_LANGUAGE
+    )
+
+
 class FixedTranslator:
     def __init__(self):
         self.recognizer = sr.Recognizer()

@@ -1,0 +1,35 @@
+./
+├── .DS_Store
+├── LICENSE.txt
+├── README.md
+├── docs/
+│   └── .DS_Store
+├── gui/
+│   ├── .DS_Store
+│   ├── CMakeLists.txt
+│   ├── README.md
+│   ├── python/
+│   │   └── gui_backend.py
+│   └── src/
+│       ├── MainWindow.cpp
+│       ├── MainWindow.h
+│       ├── SettingsDialog.cpp
+│       ├── SettingsDialog.h
+│       └── main.cpp
+├── requirements/
+│   └── requirements.txt
+├── src/
+│   ├── audio_capture.py
+│   ├── config.py
+│   ├── fixed_translator.py
+│   ├── gui_translator.py
+│   ├── main.py
+│   ├── speech_to_text.py
+│   └── translator.py
+├── standalone_translator.py
+├── tree.txt
+└── utils/
+    ├── test_audio.py
+    └── view_translations.py
+
+8 directories, 25 files

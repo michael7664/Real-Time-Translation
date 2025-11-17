@@ -1,0 +1,5 @@
+/Users/shirshendusekharmondal/Desktop/work/Deep_Learning/Translator_Real_Time/gui/build/CMakeFiles/RealTimeTranslatorGUI.dir
+/Users/shirshendusekharmondal/Desktop/work/Deep_Learning/Translator_Real_Time/gui/build/CMakeFiles/edit_cache.dir
+/Users/shirshendusekharmondal/Desktop/work/Deep_Learning/Translator_Real_Time/gui/build/CMakeFiles/rebuild_cache.dir
+/Users/shirshendusekharmondal/Desktop/work/Deep_Learning/Translator_Real_Time/gui/build/CMakeFiles/RealTimeTranslatorGUI_autogen_timestamp_deps.dir
+/Users/shirshendusekharmondal/Desktop/work/Deep_Learning/Translator_Real_Time/gui/build/CMakeFiles/RealTimeTranslatorGUI_autogen.dir

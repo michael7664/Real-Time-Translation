@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_RealTimeTranslatorGUI_FILE /Users/shirshendusekharmondal/Desktop/work/Deep_Learning/Translator_Real_Time/gui/build/RealTimeTranslatorGUI)
+set(__QT_DEPLOY_TARGET_RealTimeTranslatorGUI_TYPE EXECUTABLE)

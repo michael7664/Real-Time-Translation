@@ -1,0 +1,1929 @@
+============================================================
+REAL-TIME ITALIAN TO ENGLISH TRANSLATION LOG
+============================================================
+Started: 2025-11-13 12:31:52
+============================================================
+
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:31:59
+──────────────────────────────────────────────────
+[12:31:59]
+Italian: Ovviamente questa cosa
+English: Obviously this thing
+----------------------------------------
+[12:32:05]
+Italian: una dipendenza dalla tecnologia chi inizia
+English: an addiction to technology for beginners
+----------------------------------------
+[12:32:09]
+Italian: intelligenza artificiale spesso inconsapevolmente
+English: artificial intelligence often unconsciously
+----------------------------------------
+[12:32:14]
+Italian: Scusate la parola ma
+English: Excuse the word but
+----------------------------------------
+[12:32:16]
+Italian: domani potrebbe da solo decidere
+English: tomorrow he could decide on his own
+----------------------------------------
+[12:32:20]
+Italian: C'era una volta due volte chiede Quanto fa 3 * 3
+English: Once upon a time twice asks How much is 3 * 3
+----------------------------------------
+[12:32:23]
+Italian: Ma magari sarà la tabellina però è lì non lo fa
+English: But maybe it will be the times table but it's not there
+----------------------------------------
+[12:32:25]
+Italian: dopo un po' inizia Purtroppo a fare
+English: After a while it unfortunately starts to happen
+----------------------------------------
+[12:32:30]
+Italian: matematici devo fare domande che in realtà
+English: mathematicians have to ask questions that actually
+----------------------------------------
+[12:32:32]
+Italian: Imposta allarme per abitudine inizia a fare tutto
+English: Set alarm by habit start doing everything
+----------------------------------------
+[12:32:38]
+Italian: fanno le cose si suppone che tra un paio d'anni l'essere
+English: they do things are supposed to be in a couple of years
+----------------------------------------
+[12:32:42]
+Italian: solitamente non prenderà più decisioni ma farà tutto
+English: usually he will not make more decisions but will do everything
+----------------------------------------
+[12:32:44]
+Italian: perché ormai
+English: because now
+----------------------------------------
+[12:32:48]
+Italian: sei più in moto il cervello per così dire parliamo ancora
+English: your brain is more in motion so to speak let's talk more
+----------------------------------------
+[12:32:51]
+Italian: te ne fanno molti cioè un utilizzo bello costante
+English: They give you a lot of them, that is, constant use
+----------------------------------------
+[12:32:53]
+Italian: e soprattutto il rischio di aumentare
+English: and above all the risk of increasing
+----------------------------------------
+[12:32:57]
+Italian: digitale tra studenti con accesso Limi
+English: digital among students with Limi access
+----------------------------------------
+[12:33:03]
+Italian: tecnologia di qualità non tutti hanno la possibilità
+English: quality technology not everyone has the opportunity
+----------------------------------------
+[12:33:05]
+Italian: di avere internet e di avere un cellulare di avere queste cose
+English: to have the internet and to have a cell phone to have these things
+----------------------------------------
+[12:33:07]
+Italian: ci sono domande cioè questi settori bene o male
+English: there are questions i.e. these sectors good or bad
+----------------------------------------
+[12:33:15]
+Italian: le hanno aiutato veramente tanto
+English: they really helped her a lot
+----------------------------------------
+[12:33:16]
+Italian: cos'è
+English: things
+----------------------------------------
+[12:33:19]
+Italian: llm
+English: llm
+----------------------------------------
+[12:33:23]
+Italian: the West Model non è altro che
+English: the West Model is none other than
+----------------------------------------
+[12:33:26]
+Italian: meccanismo quel algoritmo che
+English: mechanism that algorithm that
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:33:41
+──────────────────────────────────────────────────
+[12:33:41]
+Italian: è il momento giusto per prendere appunti per il test finale
+English: it's a good time to take notes for the final test
+----------------------------------------
+[12:33:43]
+Italian: Ok quindi
+English: Ok then
+----------------------------------------
+[12:33:47]
+Italian: per iscrivervi la frase se trovate frasi
+English: to write the phrase if you find phrases
+----------------------------------------
+[12:33:51]
+Italian: questo colore così scalabile
+English: this color is so scalable
+----------------------------------------
+[12:33:53]
+Italian: diciamo che potrebbe essere oggetto della domanda del test finale
+English: let's say it could be the subject of the final test question
+----------------------------------------
+[12:33:55]
+Italian: Buongiorno Quindi se
+English: Good morning So if
+----------------------------------------
+[12:34:00]
+Italian: possibilità carta penna e prendete appunti
+English: possibility paper pen and take notes
+----------------------------------------
+[12:34:02]
+Italian: Quindi questo è llm large lingua
+English: So this is llm large lingua
+----------------------------------------
+[12:34:05]
+Italian: è un tipo di modello di intelligenza artificiale
+English: it is a type of artificial intelligence model
+----------------------------------------
+[12:34:08]
+Italian: usato su grandissime quantità di testo
+English: used on very large amounts of text
+----------------------------------------
+[12:34:11]
+Italian: testo sia da generare che
+English: text both to generate and
+----------------------------------------
+[12:34:15]
+Italian: prendere e manipolare Addirittura il linguaggio
+English: take and manipulate even language
+----------------------------------------
+[12:34:20]
+Italian: genera testo in modo coerente a partire da
+English: Generate text consistently from
+----------------------------------------
+[12:34:23]
+Italian: per esempio se scriviamo scrivi
+English: for example if we write write
+----------------------------------------
+[12:34:30]
+Italian: metti General testo basato su info testuali
+English: put General text based on textual info
+----------------------------------------
+[12:34:39]
+Italian: quindi su una richiesta scritta a mano da qualcuno
+English: then on a handwritten request from someone
+----------------------------------------
+[12:34:44]
+Italian: nell'ambito di collaborazione
+English: in the context of collaboration
+----------------------------------------
+[12:34:47]
+Italian: l'intelligenza artificiale
+English: artificial intelligence
+----------------------------------------
+[12:34:50]
+Italian: scrittura
+English: writing
+----------------------------------------
+[12:34:53]
+Italian: collaborativa Quindi con strumenti come
+English: collaborative So with tools like
+----------------------------------------
+[12:34:57]
+Italian: Ehi Google Docs Google Docs non è altro il World
+English: Hey Google Docs Google Docs is nothing else than the World
+----------------------------------------
+[12:35:00]
+Italian: link condiviso se avete notato
+English: shared link if you noticed
+----------------------------------------
+[12:35:03]
+Italian: addirittura nella pagina di Luca Tolomei
+English: even on Luca Tolomei's page
+----------------------------------------
+[12:35:06]
+Italian: un altro ha scritto è inserito i suoi i suoi
+English: another wrote is inserted his his
+----------------------------------------
+[12:35:11]
+Italian: Ciò vuol dire che condividendo un file
+English: This means that by sharing a file
+----------------------------------------
+[12:35:13]
+Italian: un file di Word più persone possono scrivere nello stesso momento
+English: multiple people can write a Word file at the same time
+----------------------------------------
+[12:35:19]
+Italian: chi sta scrivendo dove e cosa sta facendo
+English: who is writing where and what they are doing
+----------------------------------------
+[12:35:25]
+Italian: fanno generare bozze rapidamente
+English: they generate drafts quickly
+----------------------------------------
+[12:35:28]
+Italian: le bozze sono dei file che effettivamente non sono ancora
+English: drafts are files that aren't actually there yet
+----------------------------------------
+[12:35:31]
+Italian: via di sviluppo migliora la qualità del testo
+English: development improves the quality of the text
+----------------------------------------
+[12:35:35]
+Italian: traducono riassumono riformulano
+English: translate summarize reformulate
+----------------------------------------
+[12:35:37]
+Italian: minuti se non è chiaro
+English: minutes if it is not clear
+----------------------------------------
+[12:35:41]
+Italian: sono anche intelligenza artificiale come
+English: they are also artificial intelligence like
+----------------------------------------
+[12:35:46]
+Italian: canva in generale che sono fatte
+English: canva in general that are made
+----------------------------------------
+[12:35:52]
+Italian: Play immagini quando dico modifiche intendo
+English: Play images when I say changes I mean
+----------------------------------------
+[12:35:55]
+Italian: dal tagliare le cose più semplici
+English: from cutting the simplest things
+----------------------------------------
+[12:35:59]
+Italian: andare effettivamente a ritagliare il volto di una persona per
+English: actually go and crop out a person's face for
+----------------------------------------
+[12:36:04]
+Italian: in campo diciamo dei media delle immagini
+English: in the field of image media
+----------------------------------------
+[12:36:08]
+Italian: son quelli che
+English: they are the ones who
+----------------------------------------
+[12:36:11]
+Italian: sono stati creati come intelligenza artificiale
+English: they were created as artificial intelligence
+----------------------------------------
+[12:36:16]
+Italian: delle immagini addirittura anche creare volendo
+English: even create images if you want
+----------------------------------------
+[12:36:19]
+Italian: mentre il brainstorming visivo
+English: while visual brainstorming
+----------------------------------------
+[12:36:22]
+Italian: che altro che strumenti che
+English: what else than tools that
+----------------------------------------
+[12:36:25]
+Italian: fare con per esempio i video
+English: do with videos for example
+----------------------------------------
+[12:36:28]
+Italian: qualcosa che si può
+English: something that is possible
+----------------------------------------
+[12:36:31]
+Italian: visivamente
+English: visually
+----------------------------------------
+[12:36:35]
+Italian: può sembrare un po' Ecco Ricordatevi che
+English: it may seem a bit Here Remember that
+----------------------------------------
+[12:36:38]
+Italian: fai and moral aista per intellige
+English: do and moral aist for intelligence
+----------------------------------------
+[12:36:40]
+Italian: cominciarono in inglese fanno parte del pacchetto
+English: they began in English are part of the package
+----------------------------------------
+[12:36:44]
+Italian: sono in visivo supportano mappe Conce
+English: They are in visual support maps conce
+----------------------------------------
+[12:36:47]
+Italian: schemi mentali flussi di processo
+English: mental patterns process flows
+----------------------------------------
+[12:36:53]
+Italian: il programma tramite una raccolta di dati
+English: the program through data collection
+----------------------------------------
+[12:36:55]
+Italian: Qual è l'importante
+English: What's important
+----------------------------------------
+[12:37:02]
+Italian: Imposta per questo tipo di supporto concettuale
+English: Set for this type of conceptual support
+----------------------------------------
+[12:37:06]
+Italian: schemi si usano in
+English: patterns are used in
+----------------------------------------
+[12:37:08]
+Italian: fai con altri utenti Quindi è un modo
+English: do with other users So that's one way
+----------------------------------------
+[12:37:15]
+Italian: allo stesso momento con altre persone
+English: at the same time with other people
+----------------------------------------
+[12:37:16]
+Italian: Mind
+English: Mind
+----------------------------------------
+[12:37:20]
+Italian: Non ho presente quelle x-men
+English: I'm not aware of those x-men
+----------------------------------------
+[12:37:23]
+Italian: vi siete segnati queste paro
+English: you wrote down these words
+----------------------------------------
+[12:37:26]
+Italian: Però hai Emura l'hai
+English: But you have Emura you have it
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:37:38
+──────────────────────────────────────────────────
+[12:37:38]
+Italian: Allora qui ci sarebbe secondo esercizio che vi dicevo se
+English: So here would be the second exercise that I was telling you about
+----------------------------------------
+[12:37:42]
+Italian: hai la possibilità di farlo non per forza per domani anche più avanti per le prossime elezioni tranquillamente lo potete fare
+English: you have the possibility to do it, not necessarily for tomorrow, even later for the next elections you can easily do it
+----------------------------------------
+[12:37:44]
+Italian: quindi in generale
+English: so in general
+----------------------------------------
+[12:37:47]
+Italian: Prima parlavamo di L
+English: Before we talked about L
+----------------------------------------
+[12:37:50]
+Italian: e quindi modello di intelligenza artificiale per
+English: and then artificial intelligence model for
+----------------------------------------
+[12:37:53]
+Italian: un po' di squadra proprio per essere molto chiare
+English: a bit of team just to be very clear
+----------------------------------------
+[12:37:56]
+Italian: e questo lavoro di squadra chiamato anche teamwork
+English: and this teamwork also called teamwork
+----------------------------------------
+[12:37:59]
+Italian: viene utilizzato viene integrato
+English: is used is integrated
+----------------------------------------
+[12:38:03]
+Italian: con tante applicazioni per esempio
+English: with many applications for example
+----------------------------------------
+[12:38:06]
+Italian: viene utilizzato nella maggior parte di gestione
+English: It is used in most management
+----------------------------------------
+[12:38:08]
+Italian: all'interno delle aziende o in azienda
+English: within companies or in the company
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:38:21
+──────────────────────────────────────────────────
+[12:38:21]
+Italian: utilizzati per queste
+English: used for these
+----------------------------------------
+[12:38:23]
+Italian: pianificare
+English: plan
+----------------------------------------
+[12:38:26]
+Italian: può ottimizzare i lavori automati
+English: can optimize automated jobs
+----------------------------------------
+[12:38:30]
+Italian: i lavori che per esempio vanno svolti più volte
+English: jobs that, for example, need to be done several times
+----------------------------------------
+[12:38:33]
+Italian: gestire il rischio e il monitoraggio
+English: manage risk and monitoring
+----------------------------------------
+[12:38:36]
+Italian: per esempio se io devo creare se lavoro
+English: for example if I have to create if I work
+----------------------------------------
+[12:38:41]
+Italian: stabile devo andare a creare delle fatture
+English: stable I have to go and create some invoices
+----------------------------------------
+[12:38:43]
+Italian: per un reparto Non ci vuole niente che
+English: for a department Nothing is needed
+----------------------------------------
+[12:38:45]
+Italian: è tramite l'intelligenza artificiale Io creo la fattura
+English: it is through artificial intelligence I create the invoice
+----------------------------------------
+[12:38:49]
+Italian: automatico gli dico
+English: automatic I tell him
+----------------------------------------
+[12:38:52]
+Italian: metti i contatti del gruppo Non so
+English: put the contacts of the group I don't know
+----------------------------------------
+[12:38:55]
+Italian: led reparto 1 prende tutti i contatti
+English: led department 1 takes all contacts
+----------------------------------------
+[12:39:01]
+Italian: azioni che li riguarda da gestionale della conta
+English: actions that concern them from the accounting management system
+----------------------------------------
+[12:39:03]
+Italian: e crea in automatico il PDF e poi magari
+English: and automatically create the PDF and then maybe
+----------------------------------------
+[12:39:07]
+Italian: Inviali anche il pdf tramite email oppure
+English: Also send them the pdf via email or
+----------------------------------------
+[12:39:13]
+Italian: mio padre sono 50 dipendenti 50 volte la
+English: my father are 50 employees 50 times the
+----------------------------------------
+[12:39:22]
+Italian: devi comporre con i dati già esistenti
+English: you have to compose with the already existing data
+----------------------------------------
+[12:39:25]
+Italian: e poi in automatico anche inviare tutto quanto
+English: and then automatically also send everything
+----------------------------------------
+[12:39:33]
+Italian: pianificazione
+English: planning
+----------------------------------------
+[12:39:37]
+Italian: obiettivo ottimizzazione Quindi cosa vuol dire
+English: objective optimization So what does it mean
+----------------------------------------
+[12:39:41]
+Italian: analisi di ciò che comporta fare
+English: analysis of what it involves doing
+----------------------------------------
+[12:39:42]
+Italian: quindi analizza
+English: then analyze
+----------------------------------------
+[12:39:45]
+Italian: Grazie dei progetti passati per prevedere
+English: Thank you for past projects to predict
+----------------------------------------
+[12:39:49]
+Italian: quindi la parolina è prevedere in modo più accurato
+English: so the little word is predict more accurately
+----------------------------------------
+[12:39:52]
+Italian: caratteristiche di completamento identificando quale
+English: completion characteristics by identifying which
+----------------------------------------
+[12:39:55]
+Italian: problematiche Generali quindi
+English: General problems therefore
+----------------------------------------
+[12:39:58]
+Italian: Però diciamo che deve essere analisi predittiva come se
+English: But let's say it has to be predictive analysis as if
+----------------------------------------
+[12:40:01]
+Italian: prevedere ciò che dovrebbe succedere se
+English: predict what should happen if
+----------------------------------------
+[12:40:05]
+Italian: gli algoritmi ottimizzano l'assegnazione dei
+English: the algorithms optimize the assignment of
+----------------------------------------
+[12:40:07]
+Italian: chi asse
+English: who axis
+----------------------------------------
+[12:40:11]
+Italian: fai il compito se non parte ci sono cinque dipende
+English: do the homework if it doesn't start there are five it depends
+----------------------------------------
+[12:40:13]
+Italian: la stessa mansione l'intelligenza artificiale può controllare
+English: the same task artificial intelligence can control
+----------------------------------------
+[12:40:17]
+Italian: chi fa cose vedere chi è disponibile senza che
+English: who does things see who is available without that
+----------------------------------------
+[12:40:19]
+Italian: Finalmente il capo reparto va da chiedere a tutti e cinque
+English: Finally the department head goes to ask all five
+----------------------------------------
+[12:40:23]
+Italian: Cosa state facendo è in automatico
+English: What you are doing is automatic
+----------------------------------------
+[12:40:26]
+Italian: Segna un lavoro da deve fare al primo diciamo
+English: Mark a job to be done on the first one let's say
+----------------------------------------
+[12:40:28]
+Italian: libero al primo che si libera
+English: free to the first to free himself
+----------------------------------------
+[12:40:31]
+Italian: abbiamo
+English: we have
+----------------------------------------
+[12:40:35]
+Italian: creazione di attività allora
+English: creating activities then
+----------------------------------------
+[12:40:37]
+Italian: può generare automaticamente lista di
+English: can automatically generate list of
+----------------------------------------
+[12:40:41]
+Italian: checklist quindi un elenco
+English: checklist therefore a list
+----------------------------------------
+[12:40:43]
+Italian: di cose da dover fare È come se mi
+English: of things to have to do It's as if I
+----------------------------------------
+[12:40:47]
+Italian: una mail a me per Dov'è il datore di lavoro mi dice
+English: an email to me to Where is the employer tells me
+----------------------------------------
+[12:40:50]
+Italian: devi far questo questo questo e questo io tramite
+English: you have to do this this this and this I through
+----------------------------------------
+[12:40:55]
+Italian: Dimmi datore di lavoro Fammelo come elenco Punta
+English: Tell me employer Let me know as Tip list
+----------------------------------------
+[12:41:00]
+Italian: queste Dimmelo sul mio gestionale
+English: these Tell me on my management system
+----------------------------------------
+[12:41:02]
+Italian: così non sto era trascrivere manualmente tutto quanto
+English: so I'm not trying to manually transcribe everything
+----------------------------------------
+[12:41:05]
+Italian: tutto in automatico
+English: all automatically
+----------------------------------------
+[12:41:08]
+Italian: la stessa cosa gli posso chiedere un riepilogo o un Repo
+English: the same thing I can ask him for a summary or a Repo
+----------------------------------------
+[12:41:12]
+Italian: è andato qualcosa oppure aggiornamenti
+English: something went wrong or updates
+----------------------------------------
+[12:41:14]
+Italian: generici Quindi un invio automatico di notifiche
+English: generic So an automatic sending of notifications
+----------------------------------------
+[12:41:17]
+Italian: promemoria perché magari
+English: reminder why maybe
+----------------------------------------
+[12:41:23]
+Italian: Marta ore prima di pranzo allora gli
+English: Marta hours before lunch then
+----------------------------------------
+[12:41:26]
+Italian: manda un promemoria a me o hai
+English: send me a reminder or have
+----------------------------------------
+[12:41:29]
+Italian: in questione mezz'ora prima
+English: in question half an hour earlier
+----------------------------------------
+[12:41:32]
+Italian: fai pausa
+English: take a break
+----------------------------------------
+[12:41:41]
+Italian: Chiama i rischi quindi monitoriamo per
+English: Call risks then we monitor for
+----------------------------------------
+[12:41:45]
+Italian: segnalare se c'è qualcosa che non
+English: report if there is something wrong
+----------------------------------------
+[12:41:47]
+Italian: se c'è qualcosa che si può migliorare oppure
+English: if there is something that can be improved or
+----------------------------------------
+[12:41:50]
+Italian: creiamo qualcosa di
+English: let's create something
+----------------------------------------
+[12:41:54]
+Italian: per rendere più facile la lettura
+English: to make reading easier
+----------------------------------------
+[12:41:56]
+Italian: di ciò che effettivamente abbiamo fatto le cosiddette statistiche
+English: of what we actually did the so-called statistics
+----------------------------------------
+[12:41:59]
+Italian: quindi magari tremi le statistiche di
+English: so maybe you're shaking the statistics of
+----------------------------------------
+[12:42:03]
+Italian: andamento di tutto l'anno della nostra azienda tra
+English: year-round performance of our company between
+----------------------------------------
+[12:42:05]
+Italian: e ciò che abbiamo guadagnato
+English: and what we have earned
+----------------------------------------
+[12:42:08]
+Italian: Fammi vedere su un utile o sei una perdita
+English: Show me on a profit or you're a loss
+----------------------------------------
+[12:42:12]
+Italian: Allora se Chiara c'è
+English: So if Chiara is there
+----------------------------------------
+[12:42:15]
+Italian: teoricamente quando riesce può mandare su
+English: theoretically when he succeeds he can send it up
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:42:25
+──────────────────────────────────────────────────
+[12:42:25]
+Italian: Ok allora tolgo la condivisione un attimo
+English: Ok then I'll stop sharing for a moment
+----------------------------------------
+[12:42:27]
+Italian: tutti la chat di teams
+English: all Teams chat
+----------------------------------------
+[12:42:36]
+Italian: chat oppure c'è scritto chiacchierata
+English: chat or it says chat
+----------------------------------------
+[12:42:45]
+Italian: ultimo messaggio il messaggio della Chiara con un link
+English: last message Chiara's message with a link
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:42:57
+──────────────────────────────────────────────────
+[12:42:57]
+Italian: Ok vi aprirà una
+English: Ok it will open one for you
+----------------------------------------
+[12:43:06]
+Italian: e qui vi chiede
+English: and here he asks you
+----------------------------------------
+[12:43:10]
+Italian: metti un po' di dati come nome e cognome e codice
+English: enter some data such as name and surname and code
+----------------------------------------
+[12:43:12]
+Italian: sale prima di iniziare a fare veramente il test
+English: goes up before you actually start taking the test
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:43:28
+──────────────────────────────────────────────────
+[12:43:28]
+Italian: codice fiscale
+English: Tax ID code
+----------------------------------------
+[12:43:31]
+Italian: verso la parte più difficile
+English: towards the hardest part
+----------------------------------------
+[12:43:33]
+Italian: e la domanda trabocchetto
+English: and the trick question
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:43:43
+──────────────────────────────────────────────────
+[12:43:43]
+Italian: ogni lezione vi sarà richiesto sempre nome e cognome codice
+English: each lesson you will always be asked for your name and surname code
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:43:58
+──────────────────────────────────────────────────
+[12:43:58]
+Italian: se avete dubbi
+English: if you have doubts
+----------------------------------------
+[12:44:01]
+Italian: domande prima di
+English: questions before
+----------------------------------------
+[12:44:04]
+Italian: Alla fine su Invia Che vuol dire che avete finito il
+English: At the end on Send Which means you have finished the
+----------------------------------------
+[12:44:06]
+Italian: magari lo possiamo argomentare
+English: maybe we can argue it
+----------------------------------------
+[12:44:10]
+Italian: ma si viene bocciati
+English: but you get rejected
+----------------------------------------
+[12:44:14]
+Italian: hai voglia ma tanto e tante anche
+English: you want it but a lot and lots of it too
+----------------------------------------
+[12:44:15]
+Italian: deformazione professionale
+English: professional deformation
+----------------------------------------
+[12:44:19]
+Italian: No diciamo che cerchiamo sempre
+English: No, let's say we're always looking
+----------------------------------------
+[12:44:23]
+Italian: di non far bocciare nessuno si ha la
+English: not to let anyone fail you have the
+----------------------------------------
+[12:44:26]
+Italian: prima di sbagliare una domanda su tre quindi anche sbagliando
+English: before getting one question out of three wrong and therefore also getting it wrong
+----------------------------------------
+[12:44:28]
+Italian: come vi ho detto Magari prima
+English: as I told you Maybe before
+----------------------------------------
+[12:44:31]
+Italian: Invia di chiudere da tutto il test e segnarlo come finito
+English: Send to close from all the test and mark it as finished
+----------------------------------------
+[12:44:36]
+Italian: lo possiamo argomentare se avete dubbi anche solo su una domanda
+English: we can discuss it if you have doubts even on just one question
+----------------------------------------
+[12:44:37]
+Italian: ok
+English: ok
+----------------------------------------
+[12:44:47]
+Italian: No io devo
+English: No I have to
+----------------------------------------
+[12:44:49]
+Italian: Cerca io
+English: Search for me
+----------------------------------------
+[12:44:53]
+Italian: Si può cambiare corso se uno pensa che
+English: One can change course if one thinks so
+----------------------------------------
+[12:44:56]
+Italian: complicato per se stesso
+English: complicated in itself
+----------------------------------------
+[12:45:02]
+Italian: No non è più possibile Mi dispiace
+English: No it's no longer possible. I'm sorry
+----------------------------------------
+[12:45:04]
+Italian: ormai sia nel
+English: is now in
+----------------------------------------
+[12:45:08]
+Italian: Patrizia se riscontri difficoltà
+English: Patrizia if you are having difficulties
+----------------------------------------
+[12:45:10]
+Italian: no
+English: No
+----------------------------------------
+[12:45:17]
+Italian: guarda le cose serie
+English: look at serious things
+----------------------------------------
+[12:45:20]
+Italian: Secondo te è difficile
+English: In your opinion it's difficult
+----------------------------------------
+[12:45:23]
+Italian: Ma anche se cambi per esempio il
+English: But even if you change for example the
+----------------------------------------
+[12:45:26]
+Italian: e ne prendi un altro sono quasi tutti basati
+English: and get another are almost all based
+----------------------------------------
+[12:45:29]
+Italian: manda
+English: send
+----------------------------------------
+[12:45:32]
+Italian: presenza forse sicuramente
+English: presence perhaps certainly
+----------------------------------------
+[12:45:38]
+Italian: pericolosi in presenza
+English: dangerous in presence
+----------------------------------------
+[12:45:41]
+Italian: dovrebbe far richiesta però essendo
+English: should apply though being
+----------------------------------------
+[12:45:44]
+Italian: dato il corso non so
+English: given the course I don't know
+----------------------------------------
+[12:45:47]
+Italian: Ascolta la richiesta
+English: Listen to the request
+----------------------------------------
+[12:45:50]
+Italian: perché in presenza ovviamente
+English: because in presence obviously
+----------------------------------------
+[12:45:53]
+Italian: avresti il tuo
+English: you would have yours
+----------------------------------------
+[12:46:00]
+Italian: Però non è detto che ci sia
+English: But that doesn't mean it exists
+----------------------------------------
+[12:46:03]
+Italian: Scusami cioè io ho un computer che però
+English: Sorry I mean I have a computer but
+----------------------------------------
+[12:46:06]
+Italian: non funziona l'audio
+English: the audio doesn't work
+----------------------------------------
+[12:46:15]
+Italian: è aperto chiudere però
+English: it's open close though
+----------------------------------------
+[12:46:18]
+Italian: per sentirti devo tenere
+English: to hear you I have to hold
+----------------------------------------
+[12:46:21]
+Italian: telefono acceso e il computer acceso
+English: phone on and computer on
+----------------------------------------
+[12:46:24]
+Italian: domanda chiara
+English: clear question
+----------------------------------------
+[12:46:30]
+Italian: chiamate per se stessa
+English: calls for herself
+----------------------------------------
+[12:46:34]
+Italian: però è il fatto che se lei si
+English: but it's the fact that if she is
+----------------------------------------
+[12:46:36]
+Italian: Cerca il telefono e dopo
+English: Look for the phone and after
+----------------------------------------
+[12:46:39]
+Italian: inizia il computer di fianco senza collega
+English: the computer next to it starts without a connection
+----------------------------------------
+[12:46:48]
+Italian: e lavora col computer
+English: and works with the computer
+----------------------------------------
+[12:46:51]
+Italian: che però cioè non riesco
+English: but that is, I can't
+----------------------------------------
+[12:47:00]
+Italian: mi mi utilizza quello che
+English: me uses me what
+----------------------------------------
+[12:47:03]
+Italian: il collegamento
+English: the connection
+----------------------------------------
+[12:47:06]
+Italian: lo posso usare
+English: I can use it
+----------------------------------------
+[12:47:16]
+Italian: però puoi fare esercizio sul computer e poi girare il
+English: but you can practice on the computer and then turn the
+----------------------------------------
+[12:47:18]
+Italian: puoi mostrare lo schermo del computer
+English: you can show the computer screen
+----------------------------------------
+[12:47:21]
+Italian: Ah L'unica cosa
+English: Ah The only thing
+----------------------------------------
+[12:47:30]
+Italian: ok con il test come
+English: ok with the test how
+----------------------------------------
+[12:47:35]
+Italian: comando Qualcuno ha domande Aspetta che chiamo la
+English: command Anyone have questions Wait while I call
+----------------------------------------
+[12:47:40]
+Italian: perché secondo me è valida sia la prima che l'ultima
+English: because in my opinion both the first and the last are valid
+----------------------------------------
+[12:47:45]
+Italian: attività ripetitive sicuramente sì
+English: repetitive activities definitely yes
+----------------------------------------
+[12:47:55]
+Italian: fanno tutto loro e
+English: they do everything themselves and
+----------------------------------------
+[12:48:01]
+Italian: permetto di controbattere
+English: I allow you to argue
+----------------------------------------
+[12:48:04]
+Italian: Fai partire che facciano automatismo Come viene impostato
+English: Start them automatically How it is set
+----------------------------------------
+[12:48:08]
+Italian: da un essere umano
+English: by a human being
+----------------------------------------
+[12:48:13]
+Italian: si può lanciare gli agenti Cioè però lui
+English: you can launch the agents That is, however, him
+----------------------------------------
+[12:48:17]
+Italian: metti su un input che gli dai tu non
+English: put on an input that you give it not
+----------------------------------------
+[12:48:22]
+Italian: se tu programmi il Cosmi indovinà cioè il
+English: if you program the Cosmi you will guess that is
+----------------------------------------
+[12:48:30]
+Italian: programma da solo ci sono modelli che si autoproclamano da
+English: program alone there are models that proclaim themselves from
+----------------------------------------
+[12:48:34]
+Italian: Lanciano gli agenti da solo si modificano le istruzioni
+English: Launching the agents alone changes the instructions
+----------------------------------------
+[12:48:43]
+Italian: su sta cosa
+English: about this thing
+----------------------------------------
+[12:48:45]
+Italian: riesci a fare anche l'input senza un input a partire a fare
+English: you can also do the input without an input to start doing
+----------------------------------------
+[12:48:49]
+Italian: tramite la gente sinceramente non è non lo so
+English: through people it's honestly not I don't know
+----------------------------------------
+[12:48:51]
+Italian: su questo mi posso informare entro domani non
+English: I can find out about this by tomorrow
+----------------------------------------
+[12:48:55]
+Italian: Secondo me comunque da un
+English: In my opinion anyway from a
+----------------------------------------
+[12:49:04]
+Italian: prendi il punto di partenza Non nasce da
+English: take the starting point It does not arise from
+----------------------------------------
+[12:49:13]
+Italian: È comunque un input da una Panda da qualche
+English: It's still input from a Panda somewhere
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:49:40
+──────────────────────────────────────────────────
+[12:49:40]
+Italian: anni fa inizia a fare a evolvere
+English: years ago it started to evolve
+----------------------------------------
+[12:49:44]
+Italian: solo come fare ma è comunque un input purtroppo
+English: just how to do it but it's still an input unfortunately
+----------------------------------------
+[12:49:46]
+Italian: tempo che è nato Da dove è nato l'input la
+English: time it was born Where the input was born from the
+----------------------------------------
+[12:49:48]
+Italian: Ok allora la risposta
+English: Ok then the answer
+----------------------------------------
+[12:49:58]
+Italian: sto pensando sto parlando della logica
+English: I'm thinking I'm talking about logic
+----------------------------------------
+[12:50:00]
+Italian: però la logica è che sicuramente all'inizio
+English: but the logic is that certainly at the beginning
+----------------------------------------
+[12:50:06]
+Italian: c'è stato un uomo che ha programmato la prima esatto
+English: there was a man who planned the exact premiere
+----------------------------------------
+[12:50:14]
+Italian: controllo di
+English: control of
+----------------------------------------
+[12:50:21]
+Italian: ci sono delle reti sia americane che
+English: there are both American and American networks
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:50:33
+──────────────────────────────────────────────────
+[12:50:33]
+Italian: sono in grado ormai
+English: I'm capable now
+----------------------------------------
+[12:50:39]
+Italian: che è stato programmato da un'altra intelligenza artificiale
+English: which was programmed by another AI
+----------------------------------------
+[12:50:46]
+Italian: originariamente è stata fatta da un uomo ormai non abbiamo
+English: It was originally made by a man we no longer have
+----------------------------------------
+[12:50:49]
+Italian: il totale controllo e l'intelligenza artificiale
+English: total control and artificial intelligence
+----------------------------------------
+[12:50:52]
+Italian: è in grado di prendere decisioni autonome con cui può Lancia
+English: is able to make autonomous decisions with which Lancia can
+----------------------------------------
+[12:51:01]
+Italian: sei proprio a scriverlo sul web trovi
+English: you're just writing it on the web you find
+----------------------------------------
+[12:51:10]
+Italian: ore di partenza di autogestione per
+English: self-management departure hours for
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:51:21
+──────────────────────────────────────────────────
+[12:51:21]
+Italian: che tu ti
+English: that you
+----------------------------------------
+[12:51:29]
+Italian: sul mio pc su cui mi
+English: on my pc where I
+----------------------------------------
+[12:51:31]
+Italian: delle configurazioni
+English: of the configurations
+----------------------------------------
+[12:51:35]
+Italian: per cui il modello si può riprogrammare
+English: so the model can be reprogrammed
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:51:47
+──────────────────────────────────────────────────
+[12:51:47]
+Italian: tu a dovevi dire che cosa fare Tu magari scarichi il programma
+English: you had to tell what to do. Maybe you download the program
+----------------------------------------
+[12:51:53]
+Italian: esegue da solo parte con dopo un
+English: performs alone part with after a
+----------------------------------------
+[12:51:55]
+Italian: automatismi tutto da solo Comunque
+English: automatisms all by itself Anyway
+----------------------------------------
+[12:51:59]
+Italian: però se io lo lascio andare
+English: but if I let him go
+----------------------------------------
+[12:52:01]
+Italian: qualche tempo sarà in grado di farlo per conto
+English: some time will be able to do it on behalf
+----------------------------------------
+[12:52:04]
+Italian: ci sono dei modelli in America che
+English: there are models in America that
+----------------------------------------
+[12:52:07]
+Italian: già superato questa fase Cioè ti ripeto
+English: already passed this phase. That is, I repeat
+----------------------------------------
+[12:52:14]
+Italian: ma ci sono già dei modelli antagonisti
+English: but there are already antagonistic models
+----------------------------------------
+[12:52:16]
+Italian: che da mesi si lanciano da soli di cui non abbiamo
+English: that have been launching themselves for months that we don't have
+----------------------------------------
+[12:52:23]
+Italian: proverò a informarmi informati
+English: I will try to get informed
+----------------------------------------
+[12:52:26]
+Italian: ci sono Ci sono libri
+English: there are There are books
+----------------------------------------
+[12:52:33]
+Italian: si perde il controllo della gente
+English: you lose control of the people
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:52:46
+──────────────────────────────────────────────────
+[12:52:46]
+Italian: Ok grazie
+English: OK thank you
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:52:58
+──────────────────────────────────────────────────
+[12:52:58]
+Italian: tempo
+English: time
+----------------------------------------
+[12:53:03]
+Italian: Preparati per il tuo invito personale
+English: Get ready for your personal invitation
+----------------------------------------
+[12:53:08]
+Italian: la seconda domanda
+English: the second question
+----------------------------------------
+[12:53:11]
+Italian: tutte le slide che
+English: all the slides that
+----------------------------------------
+[12:53:14]
+Italian: vedere le si possono ritrova
+English: see you can find them
+----------------------------------------
+[12:53:17]
+Italian: contenuti Cli
+English: CLI contents
+----------------------------------------
+[12:53:21]
+Italian: Io a fine lezione di un lezione
+English: Me at the end of a lesson
+----------------------------------------
+[12:53:23]
+Italian: il link nella chat di teams
+English: the link in the Teams chat
+----------------------------------------
+[12:53:26]
+Italian: locali che
+English: places that
+----------------------------------------
+[12:53:35]
+Italian: se io ti scrivo
+English: if I write to you
+----------------------------------------
+[12:53:38]
+Italian: la mia tu mi rispondi
+English: you answer mine
+----------------------------------------
+[12:53:42]
+Italian: per avere la tua mail visto che io
+English: to have your email since I
+----------------------------------------
+[12:53:45]
+Italian: chat non la trovo
+English: I can't find chat
+----------------------------------------
+[12:53:48]
+Italian: per mandarti quello che ti dovrei mandare
+English: to send you what I should send you
+----------------------------------------
+[12:53:49]
+Italian: Adrian
+English: Adrian
+----------------------------------------
+[12:53:56]
+Italian: Cioè dimmi tu come devo fare
+English: That is, tell me how to do it
+----------------------------------------
+[12:54:00]
+Italian: vuoi dettare la tua mail
+English: you want to dictate your email
+----------------------------------------
+[12:54:04]
+Italian: ti mando io una mail e poi mi rispondi ogni volta
+English: I'll send you an email and then you reply every time
+----------------------------------------
+[12:54:06]
+Italian: No era per mandarti l'esercizio
+English: No it was to send you the exercise
+----------------------------------------
+[12:54:09]
+Italian: nato prima Cioè io non ho ancora capito dove
+English: born first That is, I haven't figured out where yet
+----------------------------------------
+[12:54:11]
+Italian: devo mandare tramite
+English: I have to send via
+----------------------------------------
+[12:54:18]
+Italian: the Things qual è
+English: the Things as it is
+----------------------------------------
+[12:54:24]
+Italian: Ok ok adesso
+English: Ok ok now
+----------------------------------------
+[12:54:27]
+Italian: questo volevo io
+English: this is what I wanted
+----------------------------------------
+[12:54:33]
+Italian: io l'ho già finito Ho già fatto
+English: I've already finished it. I've already done it
+----------------------------------------
+[12:54:36]
+Italian: Sì sì tutti promossi
+English: Yes yes all promoted
+----------------------------------------
+[12:54:38]
+Italian: Ok ti ringrazio era difficile
+English: Ok thank you it was difficult
+----------------------------------------
+[12:54:44]
+Italian: codice fiscale
+English: Tax ID code
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:54:54
+──────────────────────────────────────────────────
+[12:54:54]
+Italian: Allora visto che ci mancano
+English: So since we miss them
+----------------------------------------
+[12:54:57]
+Italian: 6 minuti Mi dovete scusare ma
+English: 6 minutes You must excuse me but
+----------------------------------------
+[12:55:00]
+Italian: ancora un pochettino avanti per 5 minuti e poi dopo ci
+English: continue a little further for 5 minutes and then after that
+----------------------------------------
+[12:55:03]
+Italian: L'unica cosa Adrian
+English: The only thing Adrian
+----------------------------------------
+[12:55:06]
+Italian: devo chiedere se fosse arrivata l'email che ho mandato stamattina
+English: I have to ask if the email I sent this morning had arrived
+----------------------------------------
+[12:55:10]
+Italian: table ho visto già qualcuno che me l'ha
+English: table I've already seen someone who has it for me
+----------------------------------------
+[12:55:15]
+Italian: sei arrivata a tutti sì
+English: you have reached everyone yes
+----------------------------------------
+[12:55:19]
+Italian: io l'ho compilata
+English: I filled it out
+----------------------------------------
+[12:55:21]
+Italian: cosa devo fare faccio una nuova email e
+English: what should I do I make a new email and
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:55:31
+──────────────────────────────────────────────────
+[12:55:31]
+Italian: verbo studiare
+English: verb to study
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:55:45
+──────────────────────────────────────────────────
+[12:55:45]
+Italian: fino alla prossima settimana
+English: until next week
+----------------------------------------
+[12:55:49]
+Italian: ok Quindi cosa ti manca
+English: ok So what are you missing
+----------------------------------------
+[12:55:51]
+Italian: sfera ebbasta
+English: enough sphere
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:56:13
+──────────────────────────────────────────────────
+[12:56:13]
+Italian: invia file
+English: send files
+----------------------------------------
+[12:56:20]
+Italian: noi in allegato un file in una mail
+English: we will attach a file in an email
+----------------------------------------
+[12:56:22]
+Italian: Sì però lo facevo
+English: Yes but I did it
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 12:56:37
+──────────────────────────────────────────────────
+[12:56:37]
+Italian: appena ritrovo dove sei
+English: as soon as I find where you are
+----------------------------------------
+[12:56:42]
+Italian: no qua
+English: not here
+----------------------------------------
+[12:56:45]
+Italian: Ok allora
+English: Ok then
+----------------------------------------
+[12:56:49]
+Italian: Ultima cosa per cui volevo far vedere vi ricondi
+English: Last thing I wanted to show you again
+----------------------------------------
+[12:56:51]
+Italian: quale slide
+English: which slide
+----------------------------------------
+[12:56:55]
+Italian: Queste sono
+English: These are
+----------------------------------------
+[12:56:59]
+Italian: metti e nell'utilizzo del lavoro effettivamente
+English: put and in using the work actually
+----------------------------------------
+[12:57:05]
+Italian: come collaboriamo on-line
+English: how we collaborate online
+----------------------------------------
+[12:57:07]
+Italian: Che tempo c'è stato il boom che non si poteva effettivamente
+English: What time was there the boom that you couldn't actually
+----------------------------------------
+[12:57:10]
+Italian: casa quindi cosa si faceva il lavoro delle
+English: home so what was done the work of
+----------------------------------------
+[12:57:14]
+Italian: per chi aveva un lavoro che si poteva fare da remoto
+English: for those who had a job that could be done remotely
+----------------------------------------
+[12:57:16]
+Italian: sono a casa lavorava da casa però
+English: I'm at home he worked from home though
+----------------------------------------
+[12:57:19]
+Italian: il lavorare da casa ha un po'
+English: working from home has a bit
+----------------------------------------
+[12:57:23]
+Italian: muto tutta la parte di intelligenza artificiale non
+English: I don't mute the whole artificial intelligence part
+----------------------------------------
+[12:57:24]
+Italian: Qualcuno di voi ha sentito che era stata creata
+English: Some of you heard that it was created
+----------------------------------------
+[12:57:28]
+Italian: applicazione dove era
+English: application where it was
+----------------------------------------
+[12:57:31]
+Italian: creato un ambiente virtuale come fosse una classe
+English: created a virtual environment as if it were a classroom
+----------------------------------------
+[12:57:34]
+Italian: con i tavoli con come se fosse
+English: with the tables with as if it were
+----------------------------------------
+[12:57:37]
+Italian: scuola devono un esempio simile
+English: school must set a similar example
+----------------------------------------
+[12:57:40]
+Italian: tipo classroom per un po' più
+English: classroom type for a little more
+----------------------------------------
+[12:57:44]
+Italian: più in 3D e tu teoricamente
+English: more in 3D and you theoretically
+----------------------------------------
+[12:57:46]
+Italian: boss girati con la rotellina del mouse gira
+English: bosses turn with the mouse wheel turns
+----------------------------------------
+[12:57:50]
+Italian: attorno potevi vedere le facce delle altre persone
+English: you could see other people's faces around you
+----------------------------------------
+[12:57:55]
+Italian: facciamo una classe virtuale come
+English: let's do a virtual class like
+----------------------------------------
+[12:57:59]
+Italian: sempre molto più dinamica molto più in 3D
+English: always much more dynamic much more in 3D
+----------------------------------------
+[12:58:01]
+Italian: diciamo così questo ha segnato
+English: let's say this scored
+----------------------------------------
+[12:58:05]
+Italian: Visualizza tutte le cose negative che ha portato
+English: Visualize all the negative things it brought
+----------------------------------------
+[12:58:07]
+Italian: migliorato tutto quel che è il lavoro
+English: improved everything that is the work
+----------------------------------------
+[12:58:10]
+Italian: collaborazione con altre persone
+English: collaboration with other people
+----------------------------------------
+[12:58:14]
+Italian: il Google Drive l'hanno aggiornato
+English: Google Drive has been updated
+----------------------------------------
+[12:58:17]
+Italian: migliorato così come tutti i servizi Cloud in generale
+English: improved as well as all Cloud services in general
+----------------------------------------
+[12:58:22]
+Italian: l'esempio
+English: the example
+----------------------------------------
+[12:58:29]
+Italian: che io vi ho mandato per fare il per mostrare nell'esercizio
+English: that I sent you to do the to show in the exercise
+----------------------------------------
+[12:58:33]
+Italian: contemporaneamente eravamo collegati in 7
+English: 7 of us were connected at the same time
+----------------------------------------
+[12:58:39]
+Italian: e questo aiuta effettivamente
+English: and this actually helps
+----------------------------------------
+[12:58:41]
+Italian: sei veramente tanto in generale
+English: you really are a lot in general
+----------------------------------------
+[12:58:44]
+Italian: stazione Diciamo che
+English: station Let's say that
+----------------------------------------
+[12:58:47]
+Italian: dove viene perlopiù dove l'intelligenza
+English: where intelligence mostly comes from
+----------------------------------------
+[12:58:51]
+Italian: parli aiuta per lo più una collaborazione di gruppo
+English: you speak mostly helps a group collaboration
+----------------------------------------
+[12:58:53]
+Italian: sicuramente aiuta la creatività
+English: it definitely helps creativity
+----------------------------------------
+[12:58:55]
+Italian: l'essere umano è un po' limitato
+English: the human being is a bit limited
+----------------------------------------
+[12:58:59]
+Italian: Scusate la parola ma per me per come la penso io ma
+English: Excuse the word but for me the way I think but
+----------------------------------------
+[12:59:01]
+Italian: se uno nasce con un'idea
+English: if one is born with an idea
+----------------------------------------
+[12:59:05]
+Italian: e poi studia grafica a scuola e la sua
+English: and then he studies graphics at school and his own
+----------------------------------------
+[12:59:11]
+Italian: e gli altri colori col blu e col rosso
+English: and the other colors with blue and red
+----------------------------------------
+[12:59:14]
+Italian: non andrà mai a uscire
+English: he will never go out
+----------------------------------------
+[12:59:24]
+Italian: ogni essere umano ha una sua idea
+English: every human being has his own idea
+----------------------------------------
+[12:59:26]
+Italian: intelligenza artificiale invece prende tutti i milioni
+English: artificial intelligence instead takes all the millions
+----------------------------------------
+[12:59:30]
+Italian: di idee che ci sono sul web anche miliardi
+English: there are billions of ideas on the web
+----------------------------------------
+[12:59:36]
+Italian: suona tante idee da dover scegliere rispetto a noi che magari
+English: sounds like so many ideas that you have to choose from us who maybe
+----------------------------------------
+[12:59:39]
+Italian: una o due e cioè Siamo un po'
+English: one or two and that is We are a little
+----------------------------------------
+[12:59:47]
+Italian: Quindi anche la creatività
+English: So also creativity
+----------------------------------------
+[12:59:50]
+Italian: Se qualcuno mi chiede Fammi un design per una macchina e io ho sempre
+English: If someone asks me Make me a design for a car and I always have it
+----------------------------------------
+[12:59:54]
+Italian: invece
+English: Instead
+----------------------------------------
+[12:59:58]
+Italian: intelligenza artificiale avrò diversi modi perché
+English: artificial intelligence I will have several ways why
+----------------------------------------
+[13:00:02]
+Italian: 50 persone a un tavolo e ciascuna
+English: 50 people at one table and each
+----------------------------------------
+[13:00:08]
+Italian: un'altra cosa è snellire
+English: another thing is to streamline
+----------------------------------------
+[13:00:11]
+Italian: novità operative quindi invece di stare in via Rio
+English: operational news therefore instead of staying in via Rio
+----------------------------------------
+[13:00:14]
+Italian: imposto o di qualche intelligenza artificiale Imposta
+English: imposed or some artificial intelligence Set
+----------------------------------------
+[13:00:16]
+Italian: ogni giorno oppure oggi stasera
+English: every day or today tonight
+----------------------------------------
+[13:00:19]
+Italian: devo andare via delle 10
+English: I have to leave at 10
+----------------------------------------
+[13:00:23]
+Italian: Come si dice clienti che mi sono scordato e per non scordarmelo
+English: As they say customers I forgot and so I don't forget
+----------------------------------------
+[13:00:25]
+Italian: Io nel frattempo mi occupo di altro
+English: In the meantime, I'm busy with other things
+----------------------------------------
+[13:00:28]
+Italian: Questa è una domanda l'intelligenza artificiale aiuta
+English: This is a question artificial intelligence helps
+----------------------------------------
+[13:00:31]
+Italian: rendendo tutto più
+English: making everything more
+----------------------------------------
+[13:00:35]
+Italian: ormai tutto in
+English: now everything is in
+----------------------------------------
+[13:00:38]
+Italian: siti web i programmi
+English: websites and programs
+----------------------------------------
+[13:00:40]
+Italian: azioni gestionali mettono
+English: management actions put
+----------------------------------------
+[13:00:44]
+Italian: automatismi queste cose automatiche che facili
+English: automatisms these automatic things that are easy
+----------------------------------------
+[13:00:49]
+Italian: Questa è l'ultima parte che volevo tenevo a di
+English: This is the last part I wanted to say
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 13:01:04
+──────────────────────────────────────────────────
+[13:01:04]
+Italian: bene domande
+English: good questions
+----------------------------------------
+[13:01:08]
+Italian: è chiaro oggi abbiamo parlato bene o male
+English: it's clear today we spoke well or badly
+----------------------------------------
+[13:01:11]
+Italian: alcuni termini come llm abbiamo visto
+English: we have seen some terms like llm
+----------------------------------------
+[13:01:14]
+Italian: la panoramica di che cosa sono le intelligenze artificiali Come si
+English: the overview of what artificial intelligences are How to
+----------------------------------------
+[13:01:16]
+Italian: da domani
+English: from tomorrow
+----------------------------------------
+[13:01:20]
+Italian: noi ci vediamo sempre la mattina iniziamo un po' più
+English: we always see each other in the morning we start a little more
+----------------------------------------
+[13:01:23]
+Italian: Quindi mi raccomando se non è chiaro
+English: So please let me know if it's not clear
+----------------------------------------
+[13:01:32]
+Italian: Nella parte tecnica anche
+English: In the technical part too
+----------------------------------------
+[13:01:35]
+Italian: ricordate tutte le terminologie ogni minima cosa
+English: remember all the terminologies every little thing
+----------------------------------------
+[13:01:38]
+Italian: L'importante è capire la logica il senso
+English: The important thing is to understand the logic and meaning
+----------------------------------------
+[13:01:41]
+Italian: andremo a vedere il fatto è se io uno
+English: we're going to see the fact is if I one
+----------------------------------------
+[13:01:45]
+Italian: qualcuno ti chiede com'è da che Come è composta
+English: someone asks you what it's like and how it's made up of
+----------------------------------------
+[13:01:51]
+Italian: tre passaggi da fare per
+English: three steps to do for
+----------------------------------------
+[13:01:56]
+Italian: delle direttive
+English: of the directives
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 13:02:09
+──────────────────────────────────────────────────
+[13:02:09]
+Italian: non ti do più niente da oggi in poi ti deve mangiare
+English: I won't give you anything anymore from today onwards you have to eat
+----------------------------------------
+[13:02:12]
+Italian: Come sta andando l'internet come vanno le cose
+English: How is the internet going how are things going
+----------------------------------------
+[13:02:17]
+Italian: poi se ti
+English: then if you
+----------------------------------------
+[13:02:21]
+Italian: Deep Learning machine Learning non mi interessa
+English: Deep Learning Machine Learning doesn't interest me
+----------------------------------------
+[13:02:25]
+Italian: non interessa che capisce un pochettino la logica di
+English: It doesn't matter that he understands the logic of a little bit
+----------------------------------------
+[13:02:33]
+Italian: Dimmi dimmi Michela scusa sono
+English: Tell me tell me Michela I'm sorry
+----------------------------------------
+[13:02:37]
+Italian: Allora io probabilmente domani comunque
+English: Then I probably tomorrow anyway
+----------------------------------------
+[13:02:43]
+Italian: non riesco a esserci perché al centro per l'impiego
+English: I can't be there because I'm at the job centre
+----------------------------------------
+[13:02:45]
+Italian: ho dato appuntamento per andare
+English: I made an appointment to go
+----------------------------------------
+[13:02:47]
+Italian: via per il lavoro
+English: away for work
+----------------------------------------
+[13:02:50]
+Italian: quindi
+English: Therefore
+----------------------------------------
+[13:02:54]
+Italian: Sì sì e quindi probabilmente
+English: Yes yes and so probably
+----------------------------------------
+[13:02:58]
+Italian: niente Sì non non riesco a esserci
+English: nothing Yes I can't be there
+----------------------------------------
+[13:03:03]
+Italian: nel caso io
+English: in case I
+----------------------------------------
+[13:03:05]
+Italian: Sì per fare l'ultima parte posso
+English: Yes to do the last part I can
+----------------------------------------
+[13:03:09]
+Italian: comprare o no Come ho detto posso
+English: to buy or not As I said I can
+----------------------------------------
+[13:03:18]
+Italian: puoi entrare Comunque se sei un po' di tempo
+English: you can come in anyway if you are some time
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 13:03:30
+──────────────────────────────────────────────────
+[13:03:30]
+Italian: sognare il Signore
+English: dream of the Lord
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 13:03:45
+──────────────────────────────────────────────────
+[13:03:45]
+Italian: Allora l'ultimissima cosa per chi sta uscendo
+English: So the very last thing for those who are going out
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 13:04:01
+──────────────────────────────────────────────────
+[13:04:01]
+Italian: Ciao Carmelinda Ah ok
+English: Hi Carmelinda Ah ok
+----------------------------------------
+[13:04:03]
+Italian: Ok diciamo che ci sono
+English: Ok let's say there are
+----------------------------------------
+[13:04:10]
+Italian: chiedo scusa
+English: I apologize
+----------------------------------------
+[13:04:15]
+Italian: a me è arrivata via email
+English: It came to me via email
+----------------------------------------
+[13:04:18]
+Italian: cioè no via sms
+English: that is, not via text message
+----------------------------------------
+[13:04:20]
+Italian: che sono abilitata per
+English: which I am qualified for
+----------------------------------------
+[13:04:23]
+Italian: fare un corso informatica di base
+English: take a basic computer course
+----------------------------------------
+[13:04:26]
+Italian: è sempre questo
+English: it's always this
+----------------------------------------
+
+──────────────────────────────────────────────────
+PARAGRAPH START: 13:04:38
+──────────────────────────────────────────────────
+[13:04:38]
+Italian: un altro
+English: another
+----------------------------------------
+[13:04:41]
+Italian: 16 ore mi sembra
+English: 16 hours I think
+----------------------------------------
+[13:04:51]
+Italian: volume 1 Esatto finché non finisce questo corso non
+English: volume 1 That's right until this course ends
+----------------------------------------
+[13:04:59]
+Italian: partecipare ad altri sono Rischiate di non prendere la naspi
+English: participate in others are You risk not taking the naspi
+----------------------------------------
+[13:05:02]
+Italian: se vi viene data la possibilità ma comunque ripeto è un corso a parte non c'entra nulla con questo corso quando
+English: if you are given the opportunity but I repeat it is a separate course it has nothing to do with this course when
+----------------------------------------
+[13:05:06]
+Italian: potete rifarlo rifarlo insomma in generale
+English: you can do it again, do it again in general
+----------------------------------------
+[13:05:11]
+Italian: ma al momento non potete interrompere questo per fare l'altro
+English: but at the moment you cannot interrupt this to do the other
+----------------------------------------
+[13:05:14]
+Italian: Essendo due corsi separati diversi Ah no
+English: Being two different separate courses Ah no
+----------------------------------------
+[13:05:19]
+Italian: è facoltativo non è
+English: it's optional it's not
+----------------------------------------
+[13:05:21]
+Italian: mi sono
+English: I am
+----------------------------------------
+[13:05:25]
+Italian: Centro dell'Impiego
+English: Employment Centre
+----------------------------------------
+[13:05:28]
+Italian: obbligatorio quello che stiamo facendo oggi
+English: what we are doing today is mandatory
+----------------------------------------
+[13:05:33]
+Italian: Grazie Patrizia
+English: Thanks Patricia
+----------------------------------------
+[13:05:42]
+Italian: Ciao ci vediamo domani mattina allora buona giornata
+English: Hi, see you tomorrow morning so have a good day
+----------------------------------------
+[13:05:44]
+Italian: Buona giornata buona giornata
+English: Have a good day have a good day
+----------------------------------------
+
+============================================================
+SESSION SUMMARY
+============================================================
+Ended: 2025-11-13 13:05:47
+Total translations: 453
+============================================================
